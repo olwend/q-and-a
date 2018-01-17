@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Jquery question</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+	<body>
+
+		<div id="questions">
+		  Quick questions
+		  <ul>
+		    <li><a href="#" id="question" rel="qa1">Question 1</a></li>
+		    <li><a href="#" id="question" rel="qa2">Question 2</a></li>
+		    <li><a href="#" id="question" rel="qa3">Question 3</a></li>
+		    <li><a href="#" id="question" rel="qa4">Question 4</a></li>
+		    <li><a href="#" id="question" rel="qa5">Question 5</a></li>
+		  </ul>
+		</div>
+		<div id="answers">
+
+			<div id="qa1"><p>Answer 1</p></div>
+			<div id="qa2" style="display: none"><p>Answer 2</p></div>
+			<div id="qa3" style="display: none"><p>Answer 3</p></div>
+			<div id="qa4" style="display: none"><p>Answer 4</p></div>
+			<div id="qa5" style="display: none"><p>Answer 5</p></div>
+
+		  <a href="#" id="prev-question">Prev question</a>
+		  <a href="#" id="next-question" rel="qa1">Next question</a>
+		</div>
+
+	<script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="script.js"></script>
+	</body>
+</html>

@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>
+<html lang="en" class="no-js oldie">
+<![endif]-->
+<!--[if IE 9 ]>
+<html lang="en" class="no-js ie9">
+<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js">
+    <!--<![endif]-->
+
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+	<meta name="twitter:widgets:csp" content="on">
+	<title>Q and A | Natural History Museum</title>
+    
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+
+<!-- WR-1074 - add Google Optimise for A/B testing -->
+<!-- Initialise the dataLayer -->
+<script>dataLayer = [];</script>
+
+<!-- Page hiding snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-5D4H9KX':true});</script>
+<!-- End page hiding snippet -->
+
+<!-- Google Analytics Snippet - No Pageview Fired -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-57477456-1', 'auto');
+ga('require', 'linker');
+ga('linker:autoLink', ['secpay.com','nhmimages.com','nhm.ac.uk'] );
+ga('require', 'GTM-5D4H9KX');
+</script>
+<!-- End Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TDGNT');</script>
+<!-- End Google Tag Manager -->
+<!-- END WR-1074 -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+
+<link rel="stylesheet" href="/etc/clientlibs/nhmwww/webfont.css" type="text/css">
+
+<link rel="stylesheet" href="/etc/clientlibs/nhmwww/main/normalize.css" type="text/css">
+
+<link rel="stylesheet" href="/etc/clientlibs/nhmwww/main/foundation.css" type="text/css">
+
+
+
+<!-- START CQ.JQUERY FOR AUTHOR AND EVENTS PAGES ONLY -->
+	<link rel="stylesheet" href="/etc.clientlibs/clientlibs/granite/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="/etc/clientlibs/foundation/jquery-ui/themes/default.css" type="text/css">
+
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery-ui.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery-ui.js"></script>
+
+<!-- END CQ.JQUERY FOR AUTHOR AND EVENTS PAGES ONLY -->
+
+
+<link rel="stylesheet" href="/etc/clientlibs/nhmwww/main.css" type="text/css">
+
+
+
+<script type="text/javascript" src="/etc/clientlibs/nhmwww/main.js"></script>
+
+
+
+<!--
+Edit Mode is on
+Design Mode is off
+Preview Mode is off
+-->
+	<script src="/etc/designs/nhmwww/js/aem.js"></script>
+
+
+
+
+
+
+
+<style>
+	.js--carousel-image {
+		display: none;
+	}
+</style>
+    <link rel="stylesheet" href="/libs/cq/gui/components/authoring/editors/clientlibs/internal/page.css" type="text/css">
+<script type="text/javascript" src="/libs/cq/gui/components/authoring/editors/clientlibs/internal/messaging.js"></script>
+<script type="text/javascript" src="/libs/granite/author/deviceemulator/clientlibs.js"></script>
+<script type="text/javascript" src="/libs/cq/gui/components/authoring/editors/clientlibs/internal/page.js"></script>
+
+
+
+    
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/nhmwww/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/nhmwww/favicon.ico">
+    
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TDGNT"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+
+
+
+
+
+
+
+
+
+<header class="global-header cf">
+  <div class="megamenu">
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="global-header--container row cf">
+		<div class="global-header--menu">
+			<div class="global-header--bar global-header--logo__container row cf">
+					<a href="/" class="global-header--logo"><span class="ir">Natural History Museum</span></a>
+					<a href="#" id="mobile-navigation" class="mobile global-header--menu__trigger">
+						<i class="ico svg-ico ico-menu-open" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_l_general_menu.svg" data-svg-title="icon__menu" data-alt="Open Menu" data-stroke-width="1" data-fallback="/etc/designs/nhmwww/img/mobile-menu.png"></i>
+						<i class="ico svg-ico ico-menu-close" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_l_general_close.svg" data-svg-title="icon__menu_close" data-alt="Close Menu" data-stroke-width="10" data-base-color="#A8A8A8" data-fallback="/etc/designs/nhmwww/img/mobile-menu.png"></i>
+						<span class="ir">Menu</span>
+					</a>
+			</div>
+			<nav class="global-header--bar global-header--menu__nav js-qahub-control row cf">
+					<ul class="global-header--nav-list cf">
+						<li class="global-header--nav-list__item link-visit">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/visit.html">Visit</a>
+						</li>
+						<li class="global-header--nav-list__item link-discover">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/discover.html">Discover</a>
+							<div class="global-header--nav-list__item--subnav-link">
+								<img id="subnav__discover--open" src="/etc/designs/nhmwww/img/png-icons/icon_l_chevron_down.png" alt="Open Disover secondary menu">
+								<img id="subnav__discover--close" src="/etc/designs/nhmwww/img/png-icons/icon_l_chevron_up.png" alt="Close Disover secondary menu" style="display: none;">
+							</div>
+						</li>
+								<li class="global-header--menu__subnav-discover">
+									<a href="http://staging.nhm.ac.uk/discover/oceans.html" data-gtm="subnav-link">Oceans</a>
+								</li>
+								<li class="global-header--menu__subnav-discover">
+									<a href="http://staging.nhm.ac.uk/discover/human-evolution.html" data-gtm="subnav-link">Human evolution</a>
+								</li>
+								<li class="global-header--menu__subnav-discover">
+									<img src="/libs/cq/linkchecker/resources/linkcheck_o.gif" alt="invalid link: /content/nhmwww/en/home/discover/dino-directory/index.html" title="invalid link: /content/nhmwww/en/home/discover/dino-directory/index.html" border="0">Dinosaurs<img src="/libs/cq/linkchecker/resources/linkcheck_c.gif" border="0">
+								</li>
+								<li class="global-header--menu__subnav-discover">
+									<a href="http://staging.nhm.ac.uk/about-us/news.html" data-gtm="subnav-link">News</a>
+								</li>
+								<li class="global-header--menu__subnav-discover" data-gtm="subnav-link">
+									<a href="https://blog.nhm.ac.uk/">Blog</a>
+								</li>
+						<li class="global-header--nav-list__item link-take-part">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/take-part.html">Take part</a>
+						</li>
+						<li class="global-header--nav-list__item link-support-us">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/support-us.html">Join and support</a>
+						</li>
+						<li class="global-header--nav-list__item link-shop">
+							<a class="global-header--nav-list__link" href="https://www.nhmshop.co.uk/?utm_source=nhm.ac.uk&utm_medium=referral&utm_campaign=general&utm_content=meganav">Shop</a>
+						</li>
+						<li class="global-header--nav-list__item link-schools">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/schools.html">Schools</a>
+						</li>
+						<li class="global-header--nav-list__item link-our-science">
+							<a class="global-header--nav-list__link" href="http://staging.nhm.ac.uk/our-science.html">Our science</a>
+						</li>
+						<li class="global-header--nav-list__item link-search">
+							<a class="global-header--nav-list__link" href="#" id="global-header--search-bar__button">Search</a>
+						</li>
+					</ul>
+			</nav>
+		</div>
+		<div class="global-header--info__container">
+			<ul class="global-header--info">
+				<li class="global-header--info__item">
+					<a href="/visit/getting-here.html">
+					<i class="ico svg-ico" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_s_feature_ticket_small.svg" data-svg-title="icon__ticket" data-alt="Admission" data-base-color="#000000" data-stroke-width="1" data-fallback="/etc/designs/nhmwww/img/icons/nav-ticket.png"></i>
+					Hours and admission</a>
+				</li>
+				<li class="global-header--info__item">
+					<a href="/support-us/membership.html">
+					<i class="ico svg-ico" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_s_feature_membership_small.svg" data-svg-title="icon__membership" data-alt="Membership" data-base-color="#000000" data-stroke-width="1" data-fallback="/etc/designs/nhmwww/img/icons/nav-id.png"></i>
+					Become a Member</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="global-header--subnav subnav__discover js-global-header--nav-list__hide">
+		<div class="row cf">
+			<ul>
+				<li><a href="http://staging.nhm.ac.uk/discover/oceans.html" data-gtm="subnav-link">Oceans</a></li>
+				<li><a href="http://staging.nhm.ac.uk/discover/human-evolution.html" data-gtm="subnav-link">Human evolution</a></li>
+				<li><img src="/libs/cq/linkchecker/resources/linkcheck_o.gif" alt="invalid link: /content/nhmwww/en/home/discover/dino-directory/index.html" title="invalid link: /content/nhmwww/en/home/discover/dino-directory/index.html" border="0">Dinosaurs<img src="/libs/cq/linkchecker/resources/linkcheck_c.gif" border="0"></li>
+				<li><a href="http://staging.nhm.ac.uk/about-us/news.html" data-gtm="subnav-link">News</a></li>
+				<li><a href="https://blog.nhm.ac.uk/" data-gtm="subnav-link">Blog</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="global-header--subnav subnav__deworm js-global-header--nav-list__hide">
+		<div class="row cf">
+			<ul>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3.html" data-gtm="subnav-link-deworm">DeWorm3</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/about.html" data-gtm="subnav-link-deworm">About</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/who-we-are.html" data-gtm="subnav-link-deworm">Who we are</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/objectives.html" data-gtm="subnav-link-deworm">Objectives</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/research-tool-kit.html" data-gtm="subnav-link-deworm">Research tool kit</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/publications.html" data-gtm="subnav-link-deworm">Publications</a></li>
+				<li><a href="http://staging.nhm.ac.uk/our-science/our-work/sustainability/deworm3/news.html" data-gtm="subnav-link-deworm">News</a></li>
+			</ul>
+		</div>
+	</div>
+
+</div>
+	<div class="global-header--search-bar">
+		<div class="global-header--search-bar__blocking-overlay"></div>
+		<div class="global-header--search-bar__overlay"></div>
+		<div class="global-header--search-bar__content">
+			<a href="#" id="global-header--search-bar__close"><i class="ico svg-ico ico-menu-close global-header--search-bar__close-icon" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_l_general_close.svg" data-svg-title="icon__menu_close" data-alt="Close Menu" data-stroke-width="10" data-base-color="#A8A8A8" data-fallback="/etc/designs/nhmwww/img/mobile-menu.png" id="svg-icon__menu_close-4"></i></a>
+				<form action="https://www.nhm.ac.uk/search.html" method="get" class="global-header--search-bar__form">
+
+						<input type="text" name="q" class="text global-header--search-bar__input" placeholder="Search">
+						<button class="submit global-header--search-bar__submit-button">
+							<i class="ico svg-ico desktop global-header--search-bar__search-icon" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_s_general_search_small.svg" data-svg-title="icon__search" data-alt="Search" data-stroke-width="2" data-base-color="#FFFFFF" data-fallback="/etc/designs/nhmwww/img/icons/search-nav.png" id="svg-icon__search-6"></i>
+						</button>
+
+				</form>
+
+			<div class="global-header--search-bar__popular-search-terms">
+				<h2 class="global-header--search-bar__heading">Popular search terms:</h2>
+				<ul>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/visit/exhibitions/venom-killer-and-cure.html">Venom</a></li>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year-53.html"> Wildlife Photographer of the Year</a></li>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/bluewhale">Hope the blue whale</a></li>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/discover/oceans.html">Oceans</a></li>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/search.html?q=dinosaurs">Dinosaurs</a></li>
+				<li class="global-header--search-bar__link"><a href="http://www.nhm.ac.uk/take-part/identify-nature.html">Identify a fossil</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+<!--cq{"decorated":true,"type":"nhmwww/components/includes/megamenu","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/megamenu","selectors":null,"servlet":"Script /apps/nhmwww/components/includes/megamenu/megamenu.jsp","totalTime":3,"selfTime":3}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/megamenu" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/megamenu&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/megamenu.html&quot;,&quot;designDialog&quot;:&quot;/apps/nhmwww/components/includes/megamenu/design_dialog&quot;,&quot;designDialogLayout&quot;:&quot;auto&quot;,&quot;designDialogLoadingMode&quot;:&quot;inline&quot;,&quot;designDialogSrc&quot;:&quot;/libs/cq/gui/components/authoring/compat/content/dialog.html?dialog=%2Fapps%2Fnhmwww%2Fcomponents%2Fincludes%2Fmegamenu%2Fdesign_dialog&amp;content=%2Fetc%2Fdesigns%2Fnhmwww%2Fjcr%3Acontent%2Fnhmpage%2Fmegamenu&quot;,&quot;designDialogClassic&quot;:&quot;/apps/nhmwww/components/includes/megamenu/design_dialog&quot;,&quot;type&quot;:&quot;nhmwww/components/includes/megamenu&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/megamenu&quot;,&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+
+</header>
+	<div class="main-section template--nhm-page discover">
+		
+		<div class="breadcrumb tablet desktop">  
+		   	<div class="row">	
+				<div class="small-12 columns">
+						<div class="nhmtrail nhm-breadcrumb"><a href="/" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/nhmwww/en/home' },collect: false,options: { obj: this },componentPath: 'nhmwww/components/includes/nhm-breadcrumb'})">Home</a>&nbsp;/&nbsp;<a href="http://staging.nhm.ac.uk/discover.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/nhmwww/en/home/discover' },collect: false,options: { obj: this },componentPath: 'nhmwww/components/includes/nhm-breadcrumb'})">Discover</a>&nbsp;/&nbsp;<a href="http://staging.nhm.ac.uk/discover/oceans.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/nhmwww/en/home/discover/oceans' },collect: false,options: { obj: this },componentPath: 'nhmwww/components/includes/nhm-breadcrumb'})">Oceans</a>&nbsp;/&nbsp;<strong>Q and A</strong>
+    
+
+
+<!--cq{"decorated":true,"type":"nhmwww/components/includes/nhm-breadcrumb","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/nhmtrail","selectors":null,"servlet":"Script /apps/nhmwww/components/includes/nhm-breadcrumb/nhm-breadcrumb.jsp","totalTime":1,"selfTime":1}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/nhmtrail" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/nhmtrail&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/nhmtrail.html&quot;,&quot;designDialog&quot;:&quot;/apps/nhmwww/components/includes/nhm-breadcrumb/design_dialog&quot;,&quot;designDialogLayout&quot;:&quot;auto&quot;,&quot;designDialogLoadingMode&quot;:&quot;inline&quot;,&quot;designDialogSrc&quot;:&quot;/libs/cq/gui/components/authoring/compat/content/dialog.html?dialog=%2Fapps%2Fnhmwww%2Fcomponents%2Fincludes%2Fnhm-breadcrumb%2Fdesign_dialog&amp;content=%2Fetc%2Fdesigns%2Fnhmwww%2Fjcr%3Acontent%2Fnhmpage%2Fnhmtrail&quot;,&quot;designDialogClassic&quot;:&quot;/apps/nhmwww/components/includes/nhm-breadcrumb/design_dialog&quot;,&quot;type&quot;:&quot;nhmwww/components/includes/nhm-breadcrumb&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/nhmtrail|nhm-breadcrumb&quot;,&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+		
+
+
+
+
+
+
+
+
+
+	<div class="main-section">
+		<div class="title">
+    <div class="row title-bar ">
+	    <div class="small-12 medium-12 large-12 columns">
+	    <h1>Q and A</h1>
+	    
+	    </div>
+			
+    </div><!--cq{"decorated":true,"type":"nhmwww/components/functional/title","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/title","selectors":null,"servlet":"Script /apps/nhmwww/components/functional/title/title.jsp","totalTime":0,"selfTime":0}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/title" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/title&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/title.html&quot;,&quot;dialog&quot;:&quot;/apps/nhmwww/components/functional/title/cq:dialog&quot;,&quot;dialogLoadingMode&quot;:&quot;auto&quot;,&quot;dialogLayout&quot;:&quot;auto&quot;,&quot;dialogSrc&quot;:&quot;/mnt/override/apps/nhmwww/components/functional/title/_cq_dialog.html/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/title&quot;,&quot;dialogClassic&quot;:&quot;/apps/nhmwww/components/functional/title/dialog&quot;,&quot;designDialog&quot;:&quot;/apps/nhmwww/components/functional/title/design_dialog&quot;,&quot;designDialogLayout&quot;:&quot;auto&quot;,&quot;designDialogLoadingMode&quot;:&quot;inline&quot;,&quot;designDialogSrc&quot;:&quot;/libs/cq/gui/components/authoring/compat/content/dialog.html?dialog=%2Fapps%2Fnhmwww%2Fcomponents%2Ffunctional%2Ftitle%2Fdesign_dialog&amp;content=%2Fetc%2Fdesigns%2Fnhmwww%2Fjcr%3Acontent%2Fnhmpage%2Ftitle&quot;,&quot;designDialogClassic&quot;:&quot;/apps/nhmwww/components/functional/title/design_dialog&quot;,&quot;type&quot;:&quot;nhmwww/components/functional/title&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/title&quot;,&quot;editConfig&quot;:{&quot;inplaceEditingConfig&quot;:{&quot;active&quot;:true,&quot;editorType&quot;:&quot;title&quot;,&quot;configPath&quot;:&quot;/apps/nhmwww/components/functional/title/cq:editConfig/cq:inplaceEditing/config&quot;}},&quot;ipeConfig&quot;:{&quot;jcr:primaryType&quot;:&quot;nt:unstructured&quot;,&quot;config&quot;:{&quot;jcr:primaryType&quot;:&quot;nt:unstructured&quot;}}}"></cq>
+</div>
+
+		<div class="par parsys"><div class="rowfullwidth section">
+
+
+
+<div class="row " data-equalizer >
+	<div class="large-12 columns">
+		<div class="par2 parsys"><div class="q-and-a-hub parbase section">
+	
+    
+<script type="text/javascript" src="/apps/nhmwww/components/functional/q-and-a-hub/clientlibs.js"></script>
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		<div class="qahub--question-container columns small-12 medium-4 large-4">
+			<h3 class="qahub--question-title">Quick questions</h3>
+			<a href="#" class="qahub--question-list-nav" data-direction="up">
+				<div class="qahub--question-up">
+					<img src="/etc/designs/nhmwww/img/arrows/down-arrow.png" alt="Scroll the list of questions up">
+				</div>
+			</a>
+			<ol class="qahub--question-list">
+				<a href="#" class="js-qa-nav" data-question="0">
+					<li id="qa-question-0" class="qa-question">
+						<span>Why was the whale sad?</span>
+					</li>
+				</a>
+			
+				<a href="#" class="js-qa-nav" data-question="1">
+					<li id="qa-question-1" class="qa-question">
+						<span>What kind of whale flies?</span>
+					</li>
+				</a>
+			
+				<a href="#" class="js-qa-nav" data-question="2">
+					<li id="qa-question-2" class="qa-question">
+						<span>What is an orca's favourite TV show?</span>
+					</li>
+				</a>
+			
+				<a href="#" class="js-qa-nav" data-question="3">
+					<li id="qa-question-3" class="qa-question">
+						<span>Have you ever seen a fish cry?</span>
+					</li>
+				</a>
+			
+				<a href="#" class="js-qa-nav" data-question="4">
+					<li id="qa-question-4" class="qa-question">
+						<span>What is an orca's favourite TV show? Test second on same page</span>
+					</li>
+				</a>
+			</ol>
+			<a href="#" class="qahub--question-list-nav" data-direction="down">
+				<div class="qahub--question-down">
+					<img src="/etc/designs/nhmwww/img/arrows/down-arrow.png" alt="Scroll the list of questions down">
+				</div>
+			</a>
+			<a href="#" class="qahub--question-list-nav" data-direction="expand">
+				<div class="qahub--question-expand">
+					<img id="expand-up" src="/etc/designs/nhmwww/img/arrows/down-arrow.png" alt="Contract the list of questions" style="display: none">
+					<img id="expand-down" src="/etc/designs/nhmwww/img/arrows/down-arrow.png" alt="Expand the list of questions">
+				</div>
+			</a>
+		</div>
+
+		<div class="qahub--answer-container columns small-12 medium-8 large-8">
+
+			<div class="qahub--answer-list">
+				
+					
+						
+							<div class="answer" id="qa0">
+								<h3 class="qa-hub--answer-title">Why was the whale sad?</h3>
+								<p>Because he was a blue whale</p>
+							</div>
+						
+						
+					
+				
+					
+						
+						
+							<div class="answer" style="display: none;" id="qa1">
+								<h3 class="qa-hub--answer-title">What kind of whale flies?</h3>
+								<p>A pilot whale</p>
+							</div>
+						
+					
+				
+					
+						
+						
+							<div class="answer" style="display: none;" id="qa2">
+								<h3 class="qa-hub--answer-title">What is an orca's favourite TV show?</h3>
+								<p>Whale of Fortune</p>
+							</div>
+						
+					
+				
+					
+						
+						
+							<div class="answer" style="display: none;" id="qa3">
+								<h3 class="qa-hub--answer-title">Have you ever seen a fish cry?</h3>
+								<p>No but I've seen a whale blubber</p>
+							</div>
+						
+					
+				
+					
+						
+						
+							<div class="answer" style="display: none;" id="qa4">
+								<h3 class="qa-hub--answer-title">What is an orca's favourite TV show? Test second on same page</h3>
+								<p>Whale of Fortune Test second on same page</p>
+							</div>
+						
+					
+				
+			</div>
+
+			<div class="qahub--controls-container">
+				<a href="#" id="prev-question" class="js-qa-nav qahub--previous-question" data-question="">
+					<img src="/etc/designs/nhmwww/img/arrows/mobile-menu-arrow.png" alt="Go to previous question">
+				</a>
+				<a href="#" id="next-question" class="js-qa-nav qahub--next-question" data-question="1">
+					<img src="/etc/designs/nhmwww/img/arrows/mobile-menu-arrow.png" alt="Go to next question">
+				</a>
+			</div>
+
+		</div>
+
+	
+
+<!--cq{"decorated":true,"type":"nhmwww/components/functional/q-and-a-hub","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/q_and_a_hub","selectors":null,"servlet":"Script /apps/nhmwww/components/functional/q-and-a-hub/q-and-a-hub.html","totalTime":5,"selfTime":5}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/q_and_a_hub" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/q_and_a_hub&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/q_and_a_hub.html&quot;,&quot;dialog&quot;:&quot;/apps/nhmwww/components/functional/q-and-a-hub/cq:dialog&quot;,&quot;dialogLoadingMode&quot;:&quot;auto&quot;,&quot;dialogLayout&quot;:&quot;auto&quot;,&quot;dialogSrc&quot;:&quot;/mnt/override/apps/nhmwww/components/functional/q-and-a-hub/_cq_dialog.html/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/q_and_a_hub&quot;,&quot;dialogClassic&quot;:&quot;/apps/nhmwww/components/functional/q-and-a-hub/dialog&quot;,&quot;type&quot;:&quot;nhmwww/components/functional/q-and-a-hub&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys/rowfullwidth/par2|parsys/q-and-a-hub|parbase&quot;,&quot;editConfig&quot;:{&quot;listeners&quot;:{&quot;aftermove&quot;:&quot;REFRESH_PAGE&quot;,&quot;aftercreate&quot;:&quot;REFRESH_PAGE&quot;,&quot;afterdelete&quot;:&quot;REFRESH_PAGE&quot;,&quot;afteredit&quot;:&quot;REFRESH_PAGE&quot;,&quot;afterinsert&quot;:&quot;REFRESH_PAGE&quot;},&quot;inlineEditing&quot;:CQ.wcm.EditBase.INLINE_MODE_NEVER},&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+<div class="new section"><!--cq{"decorated":true,"type":"foundation/components/parsys/new","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/*","selectors":null,"servlet":"Script /libs/foundation/components/parsys/new/new.jsp","totalTime":0,"selfTime":0}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/*" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/*&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2/*.html&quot;,&quot;type&quot;:&quot;foundation/components/parsys/new&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys/rowfullwidth/par2|parsys/new&quot;,&quot;editConfig&quot;:{&quot;actions&quot;:[CQ.wcm.EditBase.INSERT],&quot;disableTargeting&quot;:true},&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+
+<!--cq{"decorated":true,"type":"foundation/components/parsys","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2","selectors":null,"servlet":"Script /libs/foundation/components/parsys/parsys.jsp","totalTime":7,"selfTime":2}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth/par2.html&quot;,&quot;designDialog&quot;:&quot;/libs/foundation/components/parsys/cq:design_dialog&quot;,&quot;designDialogLayout&quot;:&quot;auto&quot;,&quot;designDialogLoadingMode&quot;:&quot;auto&quot;,&quot;designDialogSrc&quot;:&quot;/mnt/override/libs/foundation/components/parsys/_cq_design_dialog.html/etc/designs/nhmwww/jcr:content/nhmpage/par/rowfullwidth/par2?referrer=%2Fcontent%2Fnhmwww%2Fen%2Fhome%2Fdiscover%2Foceans%2Fq-and-a&amp;primaryType=nt%3Aunstructured&quot;,&quot;designDialogClassic&quot;:&quot;/libs/foundation/components/parsys/design_dialog&quot;,&quot;type&quot;:&quot;foundation/components/parsys&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys/rowfullwidth/par2|parsys&quot;,&quot;isContainer&quot;:true,&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+
+	</div>
+</div><!--cq{"decorated":true,"type":"nhmwww/components/functional/layout/rowfullwidth","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth","selectors":null,"servlet":"Script /apps/nhmwww/components/functional/layout/rowfullwidth/rowfullwidth.jsp","totalTime":8,"selfTime":1}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth.html&quot;,&quot;dialog&quot;:&quot;/apps/nhmwww/components/functional/layout/rowfullwidth/cq:dialog&quot;,&quot;dialogLoadingMode&quot;:&quot;auto&quot;,&quot;dialogLayout&quot;:&quot;auto&quot;,&quot;dialogSrc&quot;:&quot;/mnt/override/apps/nhmwww/components/functional/layout/rowfullwidth/_cq_dialog.html/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/rowfullwidth&quot;,&quot;dialogClassic&quot;:&quot;/apps/nhmwww/components/functional/layout/rowfullwidth/dialog&quot;,&quot;type&quot;:&quot;nhmwww/components/functional/layout/rowfullwidth&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys/rowfullwidth&quot;,&quot;editConfig&quot;:{&quot;xtype&quot;:&quot;editbar&quot;,&quot;listeners&quot;:{&quot;aftercopy&quot;:&quot;REFRESH_PAGE&quot;,&quot;afterdelete&quot;:&quot;REFRESH_PAGE&quot;,&quot;afteredit&quot;:&quot;REFRESH_PAGE&quot;,&quot;afterinsert&quot;:&quot;REFRESH_PAGE&quot;},&quot;actions&quot;:[CQ.wcm.EditBase.EDIT,CQ.wcm.EditBase.DELETE,CQ.wcm.EditBase.COPYMOVE,{&quot;xtype&quot;:&quot;tbseparator&quot;},{&quot;xtype&quot;:&quot;tbtext&quot;,&quot;text&quot;:&quot;This is a full width row&quot;}],&quot;disableTargeting&quot;:true},&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+<div class="new section"><!--cq{"decorated":true,"type":"foundation/components/parsys/new","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/*","selectors":null,"servlet":"Script /libs/foundation/components/parsys/new/new.jsp","totalTime":0,"selfTime":0}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/*" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/*&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par/*.html&quot;,&quot;type&quot;:&quot;foundation/components/parsys/new&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys/new&quot;,&quot;editConfig&quot;:{&quot;actions&quot;:[CQ.wcm.EditBase.INSERT],&quot;disableTargeting&quot;:true},&quot;ipeConfig&quot;:{}}"></cq>
+</div>
+
+<!--cq{"decorated":true,"type":"foundation/components/parsys","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par","selectors":null,"servlet":"Script /libs/foundation/components/parsys/parsys.jsp","totalTime":12,"selfTime":4}-->
+<cq data-path="/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par" data-config="{&quot;path&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par&quot;,&quot;slingPath&quot;:&quot;/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/par.html&quot;,&quot;designDialog&quot;:&quot;/libs/foundation/components/parsys/cq:design_dialog&quot;,&quot;designDialogLayout&quot;:&quot;auto&quot;,&quot;designDialogLoadingMode&quot;:&quot;auto&quot;,&quot;designDialogSrc&quot;:&quot;/mnt/override/libs/foundation/components/parsys/_cq_design_dialog.html/etc/designs/nhmwww/jcr:content/nhmpage/par?referrer=%2Fcontent%2Fnhmwww%2Fen%2Fhome%2Fdiscover%2Foceans%2Fq-and-a&amp;primaryType=nt%3Aunstructured&quot;,&quot;designDialogClassic&quot;:&quot;/libs/foundation/components/parsys/design_dialog&quot;,&quot;type&quot;:&quot;foundation/components/parsys&quot;,&quot;isResponsiveGrid&quot;:false,&quot;csp&quot;:&quot;nhmpage|defaultpage|page/par|parsys&quot;,&quot;isContainer&quot;:true,&quot;ipeConfig&quot;:{&quot;jcr:primaryType&quot;:&quot;nt:unstructured&quot;,&quot;components&quot;:[&quot;group:NHM - layout&quot;,&quot;group:NHM - components&quot;],&quot;sling:resourceType&quot;:&quot;foundation/components/parsys&quot;}}"></cq>
+</div>
+
+	</div>
+
+	</div>
+	
+
+
+
+
+
+
+
+
+
+<div class="footer newslettersignup">
+
+
+
+
+
+
+
+
+
+
+
+<!-- START OF FOOTER -->
+<footer class="main-footer">
+  <div class="row">
+      <!-- Address section -->
+    <div class="small-12 medium-6 large-3 columns main-footer--address-section__wrapper">
+      <img src="/etc/designs/nhmwww/img/nhm-logo-white.png" alt="" class="main-footer--logo">
+      <p class="main-footer--address-section__nhm">
+        <ul>
+        <li><a href="http://www.nhm.ac.uk/" class="main-footer--link">The Natural History Museum</a> </li>
+        <li>Cromwell Road </li>
+        <li>London SW7 5BD</li>
+        <li><a href="https://www.google.co.uk/maps/place/Natural+History+Museum/@51.4967183,-0.1785559,17z/data=!3m2!4b1!5s0x4876055d2a62ace7:0xf1f051390954c55!4m5!3m4!1s0x48760542e6182f3f:0x7bb7e385c39764c4!8m2!3d51.496715!4d-0.1763672?hl=en" target="_blank" class="main-footer--link">Map</a></li>
+        </ul>
+        <ul>
+        <li>Open daily 10.00-17.50</li>
+        <li>Last entry 17.30</li>
+        <li>Closed 24-26 December</li>
+        </ul>
+      </p>
+      <p class="main-footer--address-section__tring">
+        <ul>
+        <li><a href="http://www.nhm.ac.uk/visit/tring.html" class="main-footer--link">The Natural History<br>Museum at Tring</a> </li>
+        <li>Akeman Street</li>
+        <li>Tring </li>
+        <li>Hertfordshire HP23 6AP</li>
+        <li><a href="https://www.google.co.uk/maps/place/Natural+History+Museum+at+Tring/@51.7907453,-0.6634277,17z/data=!3m1!4b1!4m5!3m4!1s0x48765bdea86d0a7d:0x169a990130daab9a!8m2!3d51.790742!4d-0.661239?hl=en" target="_blank" class="main-footer--link">Map</a></li>
+        </ul>
+        <ul>
+        <li>Open Monday - Saturday </li>
+        <li>10.00-17.00</li>
+        <li>Sunday 14.00-17.00</li>
+        <li>Closed 24-26 December</li>
+        </ul>
+      </p>
+    </div>
+      
+      <!-- Links section -->
+    <div class="small-12 medium-6 large-3 columns main-footer--links-section__wrapper main-footer--links-section__first">
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/visit.html" class="main-footer--link">Visit</a></h4>
+        <p><a href="http://www.nhm.ac.uk/visit/whats-on.html" class="main-footer--link">What's on</a></p>
+        <p><a href="http://www.nhm.ac.uk/visit/exhibitions.html" class="main-footer--link">Exhibitions and attractions</a></p>
+        <p><a href="http://www.nhm.ac.uk/visit/galleries-and-museum-map.html" class="main-footer--link">Galleries and Museum map</a></p>
+        <p><a href="http://www.nhm.ac.uk/visit/facilities-and-access.html" class="main-footer--link">Access</a></p>
+        <p><a href="http://www.nhm.ac.uk/visit/visitor-app.html" class="main-footer--link">Download our free visitor app</a></p>
+      </div>
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/schools.html" class="main-footer--link">For schools</a></h4>
+        <p><a href="http://www.nhm.ac.uk/schools/things-to-do-schools.html" class="main-footer--link">Things to do</a></p>
+        <p><a href="http://www.nhm.ac.uk/schools/essential-information-schools.html" class="main-footer--link">Essential visiting information</a></p>
+        <p><a href="http://www.nhm.ac.uk/schools/teaching-resources.html" class="main-footer--link">Teaching resources</a></p>
+
+        <h4 class="main-footer--section__pull-bottom"><a href="https://www.nhmshop.co.uk/" class="main-footer--link" target="_blank">Online shop</a></h4>
+      </div>
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/about-us.html" class="main-footer--link">About us</a></h4>
+        <p><a href="http://www.nhm.ac.uk/about-us/news.html" class="main-footer--link">News</a></p>
+        <p><a href="http://www.nhm.ac.uk/press-office.html" class="main-footer--link">Press office</a></p>
+        <p><a href="http://www.nhm.ac.uk/about-us/governance.html" class="main-footer--link">Governance</a></p>
+        <p><a href="http://www.nhm.ac.uk/contact-us.html" class="main-footer--link">Contact us</a></p>
+      </div>
+    </div>
+
+    <div class="small-12 medium-6 large-3 columns main-footer--links-section__wrapper main-footer--links-section__second">
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/support-us.html" class="main-footer--link">Join and support</a></h4>
+        <p><a href="http://www.nhm.ac.uk/support-us/membership.html" class="main-footer--link">Membership</a></p>
+        <p><a href="http://www.nhm.ac.uk/support-us/membership/gift-membership.html" class="main-footer--link">Gift membership</a></p>
+        <p><a href="http://www.nhm.ac.uk/support-us/give.html" class="main-footer--link">Make a donation</a></p>
+        <p><a href="http://www.nhm.ac.uk/support-us/patronage.html" class="main-footer--link">Become a Patron</a></p>
+        <p><a href="http://www.nhm.ac.uk/support-us/corporate-partnerships.html" class="main-footer--link">Corporate partnerships</a></p>
+      </div>
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/take-part.html" class="main-footer--link">Take part</a></h4>
+        <p><a href="http://www.nhm.ac.uk/take-part/volunteer.html" class="main-footer--link">Volunteer</a></p>
+        <p><a href="http://www.nhm.ac.uk/take-part/citizen-science.html" class="main-footer--link">Citizen science</a></p>
+        <p><a href="http://www.nhm.ac.uk/take-part/identify-nature.html" class="main-footer--link">Identify UK nature</a></p>
+        <p><a href="http://www.nhm.ac.uk/take-part/centre-for-uk-biodiversity.html" class="main-footer--link">Centre for UK Biodiversity</a></p>
+        <p><a href="http://www.nhm.ac.uk/visit/wpy/competition.html" class="main-footer--link">Wildlife Photographer<br>of the Year competition</a></p>
+      </div>
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/about-us/careers.html" class="main-footer--link">Careers</a></h4>
+        <p><a href="https://careers.nhm.ac.uk/templates/CIPHR/job_list.aspx" class="main-footer--link" target="_blank">Current vacancies</a></p>
+      </div>
+    </div>
+    <div class="small-12 medium-6 large-3 columns main-footer--links-section__wrapper main-footer--links-section__third">
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/our-science.html" class="main-footer--link">Our science</a></h4>
+        <p><a href="http://www.nhm.ac.uk/our-science/our-work.html" class="main-footer--link">Our work</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/data.html" class="main-footer--link">Data</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/collections.html" class="main-footer--link">Collections</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/departments-and-staff.html" class="main-footer--link">Departments and staff</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/science-events.html" class="main-footer--link">Events and seminars</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/courses-and-students.html" class="main-footer--link">Courses and training</a></p>
+        <p><a href="http://www.nhm.ac.uk/our-science/departments-and-staff/library-and-archives.html" class="main-footer--link">Library and Archives</a></p>
+      </div>
+      <div class="main-footer--section">
+        <h4><a href="http://www.nhm.ac.uk/business-services.html" class="main-footer--link">Business services</a></h4>
+        <p><a href="http://www.nhm.ac.uk/business-services/touring-exhibitions.html" class="main-footer--link">Touring exhibitions</a></p>
+        <p><a href="http://www.nhm.ac.uk/business-services/consulting.html" class="main-footer--link">Consulting</a></p>
+        <p><a href="http://www.nhm.ac.uk/business-services/publishing.html" class="main-footer--link">Publishing</a></p>
+        <p><a href="http://www.nhm.ac.uk/business-services/filming.html" class="main-footer--link">Film locations</a></p>
+        <p><a href="http://www.nhmimages.com/" class="main-footer--link" target="_blank">NHM Images</a></p>
+        <p><a href="http://www.nhm.ac.uk/business-services/venue-hire.html" class="main-footer--link">Venue hire</a></p>
+      </div>
+      <div class="main-footer--section">
+        <h4>&nbsp;</h4>
+        <p><a href="http://www.nhm.ac.uk/about-us/privacy-notice.html">Privacy notice</a></p>
+        <p><a href="http://www.nhm.ac.uk/about-us/website-terms-conditions.html">Terms and conditions</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 medium-12 large-12 columns main-footer--copyright">
+      <span class="copyright--span">&copy; The Trustees of The Natural History Museum, London</span>
+    </div>
+  </div>
+  
+ </footer>
+<!-- END OF FOOTER -->
+
+<div id="cookie-bar" data-module="cookie-bar">
+	<div class="small-12 medium-9 large-10 columns text-center">
+		<p>
+			We use cookies to optimise your experience when using this site. View our <a href="http://www.nhm.ac.uk/about-us/cookies.html">Cookie Policy</a> to find out more.
+		</p>
+	</div>
+	<div class="small-12 medium-3 large-2 columns text-right">
+	<a class="js--cookie-close" title="Accept cookies">
+			I accept
+	</a>
+	<i class="js--cookie-close ico svg-ico" data-svg-src="/etc/designs/nhmwww/img/svg-icons/icon_l_general_close.svg" data-svg-title="icon_general_close" data-stroke-width="8" data-base-color="#FFFFFF"></i>
+	</div>
+</div><!--cq{"decorated":true,"type":"nhmwww/components/functional/newslettersignup","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content/footer","selectors":null,"servlet":"Script /apps/nhmwww/components/functional/newslettersignup/newslettersignup.jsp","totalTime":1,"selfTime":1}-->
+</div>
+
+<script src="/etc/designs/nhmwww/js/twitter.js"></script>
+	
+	
+	
+		
+</body>
+</html><!--cq{"decorated":false,"type":"nhmwww/components/page/nhmpage","path":"/content/nhmwww/en/home/discover/oceans/q-and-a/jcr:content","selectors":null,"servlet":"Script /apps/nhmwww/components/page/defaultpage/defaultpage.jsp","totalTime":24,"selfTime":7}-->
